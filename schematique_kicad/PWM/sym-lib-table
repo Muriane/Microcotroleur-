@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name PWM-rescue)(type Legacy)(uri ${KIPRJMOD}/PWM-rescue.lib)(options "")(descr ""))
+)
