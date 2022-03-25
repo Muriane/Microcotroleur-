@@ -1,0 +1,6 @@
+stm32l0xx_ll_bus.h:987:22:LL_IOP_GRP1_EnableClock	24	static
+stm32l0xx_ll_system.h:650:22:LL_SYSCFG_SetEXTISource	24	static
+stm32l0xx_ll_gpio.h:270:22:LL_GPIO_SetPinMode	24	static
+stm32l0xx_ll_gpio.h:478:22:LL_GPIO_SetPinPull	24	static
+stm32l0xx_ll_gpio.h:873:22:LL_GPIO_ResetOutputPin	16	static
+gpio.c:42:6:MX_GPIO_Init	48	static
